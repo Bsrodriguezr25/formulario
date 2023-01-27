@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #848886;
+    color: #070400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.formulario{
+    width: 500px;
+    background: #4e5351;
+    padding: 40px 20px;
+    box-sizing: border-box;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: -50%, -50%;
+}
+
+input[type="text"]{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 6px 25px;
+    box-sizing: border-box;
+    margin-bottom: 20PX;
+    color: #848886;
+}
+
+input[type="number"]{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 6px 25px;
+    box-sizing: border-box;
+    margin-bottom: 20PX;
+    color: #848886;
+}
+
+input[type="phone"]{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 6px 25px;
+    box-sizing: border-box;
+    margin-bottom: 20PX;
+    color: #848886;
+}
+
+input[type="email"]{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 6px 25px;
+    box-sizing: border-box;
+    margin-bottom: 20PX;
+    color: #848886;
+}
+
+select[class="seleccion"]{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 6px 25px;
+    box-sizing: border-box;
+    margin-bottom: 20PX;
+    color: #848886;
+}
